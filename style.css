@@ -1,0 +1,50 @@
+/* Estilos para o cabeçalho */
+header {
+	background-color: #d68305;
+	color: #fff;
+	padding: 20px;
+}
+
+/* Estilos para o título do cabeçalho */
+header h1 {
+	margin: 0;
+}
+
+/* Estilos para a navegação */
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Estilos para o conteúdo principal */
+main {
+	padding: 20px;
+}
+
+/* Estilos para o rodapé */
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center; 
+
+    }
+   
+    img {
+        width: 300px;
+        height: 200px;
+      }
+      
+      
+      
